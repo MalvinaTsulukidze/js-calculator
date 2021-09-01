@@ -1,2 +1,2 @@
 # Simple js calculator
-## https://malvinatsulukidze.github.io/js-calculator/
+## https://malvinatsulukidze.github.io/calculator/
